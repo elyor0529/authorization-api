@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "authorization-api",
   "version": "1.0.0",
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/elyor0529/authorization-api.git"
   },
   "scripts": {
     "start": "node app.js",
